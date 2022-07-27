@@ -170,3 +170,6 @@ test*/
 test*.py
 data/*
 .vscode/
+
+demo/Output
+simulator/
